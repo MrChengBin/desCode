@@ -7,7 +7,6 @@ public class BBMove : MonoBehaviour
     public Vector3 to;
 
 
-	dddddddddddddddddddddddddd
     public float TimeUse;
 
     private float EndTime = 0;
